@@ -1,7 +1,7 @@
 # RAZZAQ
 # replace MOHAMMEDRAZZAQ-1468 with your own username
-        gh repo create AVIVASHISHTA29 --public --clone
-        cd AVIVASHISHTA29
+        gh repo create NOHAMMEDRAZZAQ-1468 --public --clone
+        cd MOHAMMEDRAZZAQ-1468
         mkdir -p scripts data .github/workflows
         requests==2.32.3
         beautifulsoup4==4.12.3
